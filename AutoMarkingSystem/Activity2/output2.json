@@ -1,0 +1,27 @@
+{
+  "scene_loaded": "Water Treatment Plant",
+  "tank_config": "Analog",
+  "controller": "Control I/O",
+  "tags_present": [
+    "Tank 1 Level Meter",
+    "Tank 1 Fill Valve",
+    "Tank 1 Discharge Valve",
+    "<=",
+    ">=",
+    "SR",
+    "Low Level Constant",
+    "High Level Constant",
+    "BOOL",
+    "AND"
+  ],
+  "logic_behaviour": {
+    "low_level_fill_on": true,
+    "low_level_discharge_off": true,
+    "high_level_fill_off": true,
+    "high_level_discharge_on": true
+  },
+  "system_running": true,
+  "tank_fills_automatically": true,
+  "emergency_button_added": true,
+  "emergency_shutdown_working": true
+}
