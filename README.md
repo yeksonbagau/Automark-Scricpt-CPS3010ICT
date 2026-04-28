@@ -13,6 +13,8 @@ This repository contains automated marking scripts for CPS Activities (Factory I
 
 ## How to Run in your terminal
 
+first you need to dowload the script and open therminal:
+
 Example (Activity 5):
 
 ```bash
